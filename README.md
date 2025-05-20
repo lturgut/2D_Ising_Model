@@ -12,7 +12,7 @@ This project investigates the thermodynamic behavior of the 2D Ising model on a 
   - Energy $\langle E \rangle$
   - Magnetic susceptibility $\chi$  
   - Heat capacity $C_V$  
-- **Goal:** Estimate the critical temperature $T_C and analyze finite-size effects.
+- **Goal:** Estimate the critical temperature $T_C$ and analyze finite-size effects.
 
 ## Key Results
 
